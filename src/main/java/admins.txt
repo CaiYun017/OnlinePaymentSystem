@@ -1,0 +1,9 @@
+
+# Admin Credentials File
+# Format: adminId:password
+# Lines starting with # are comments and will be ignored
+
+admin123:securepass
+admin456:password123
+superadmin:admin2024
+testadmin:testpass
