@@ -38,9 +38,18 @@ By addressing issues like transaction delays, weak security, and poor user exper
 
 ---
 
-## 📦 How to Run the Project
+### 📚 References
+- PayPal Developer Docs
+- Touch ‘n Go eWallet
+- Spring Boot Official Documentation
 
-### 1. Clone the Repository
+### 🙏 Acknowledgements
+Thanks for exploring the Online Payment System project!
+This system was developed as part of a university software engineering assignment, focusing on concurrency, security, and real-time performance.
+Feel free to fork, suggest improvements, or contribute!
 
-```bash
-git clone https://github.com/your-username/online-payment-system.git
+### 👨‍💻 Contributors
+- [TAN CAI YUN 297991]
+- [TAN HUI MIN 299638]
+- [CHONG MUN KEI 298767]
+- [BEH KAH MENG 299018]
