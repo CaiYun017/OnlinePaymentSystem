@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Admin Credentials File
 # Format: adminId:password
@@ -6,4 +7,14 @@
 admin123:securepass
 admin456:password123
 superadmin:admin2024
+=======
+
+# Admin Credentials File
+# Format: adminId:password
+# Lines starting with # are comments and will be ignored
+
+admin123:securepass
+admin456:password123
+superadmin:admin2024
+>>>>>>> a4c64b1ce8e2a1020684270126b70e428fb31513
 testadmin:testpass
