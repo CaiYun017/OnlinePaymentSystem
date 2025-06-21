@@ -21,20 +21,13 @@ By addressing issues like transaction delays, weak security, and poor user exper
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-- JavaFX / ReactJS *(depending on implementation stage)*
-- Tailwind CSS *(for web-based version)*
-
-### ⚙️ Backend
-- Java Spring Boot
-- RESTful API with JSON communication
-
-### 🗄️ Database
-- MySQL
+### 🎨 Interface
+- JavaFX / ReactJS 
+- GUI
 
 ### 🧰 Tools & Version Control
 - Git & GitHub
-- IntelliJ IDEA / VSCode
+- IntelliJ IDEA 
 
 ---
 
