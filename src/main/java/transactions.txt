@@ -1,0 +1,435 @@
+SenderName: Gee,
+SenderAccNo: ACC1002,
+ReceiverAccNo: ACC2225,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-13 14:11:58,
+Amount: 250.00,
+Thread: pool-1-thread-1
+
+SenderName: Alex,
+SenderAccNo: ACC1005,
+ReceiverAccNo: ACC3050,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-13 14:12:15,
+Amount: 500.00,
+Thread: pool-1-thread-2
+
+SenderName: Brian,
+SenderAccNo: ACC1007,
+ReceiverAccNo: ACC2200,
+Type: Transfer,
+Status: Failed,
+DateTime: 2025-06-13 14:13:04,
+Amount: 100.00,
+Thread: pool-1-thread-3
+
+SenderName: Cara,
+SenderAccNo: ACC1009,
+ReceiverAccNo: ACC3120,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-11 14:14:31,
+Amount: 750.00,
+Thread: pool-1-thread-4
+
+SenderName: David,
+SenderAccNo: ACC1010,
+ReceiverAccNo: ACC2201,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-12 14:15:47,
+Amount: 300.00,
+Thread: pool-1-thread-5
+
+SenderName: Chong,
+SenderAccNo: ACC1005,
+ReceiverAccNo: ACC2003,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-13 14:29:32,
+Amount: 150.00,
+Thread: pool-1-thread-1
+
+SenderName: Chong,
+SenderAccNo: ACC1005,
+ReceiverAccNo: ACC2003,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-13 14:29:42,
+Amount: 200.00,
+Thread: pool-1-thread-2
+
+SenderName: Jane,
+SenderAccNo: ACC2001,
+ReceiverAccNo: ATM,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 14:32:26,
+Amount: 200.00,
+Thread: pool-1-thread-1
+
+SenderName: Meimei,
+SenderAccNo: ACC3005,
+ReceiverAccNo: ATM,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 14:36:00,
+Amount: 1500.00,
+Thread: pool-1-thread-1
+
+SenderName: Jennie,
+SenderAccNo: ATM,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:22:50,
+Amount: 500.00,
+Thread: pool-1-thread-1
+
+SenderName: Jennie,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:23:23,
+Amount: 500.00,
+Thread: pool-1-thread-2
+
+SenderName: Jennie,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ATM,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 17:23:34,
+Amount: 500.00,
+Thread: pool-1-thread-3
+
+SenderName: Jennie,
+SenderAccNo: ATM,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:24:00,
+Amount: 200.00,
+Thread: pool-1-thread-4
+
+SenderName: Jennie,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ACC1003,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-13 17:24:24,
+Amount: 200.00,
+Thread: pool-1-thread-5
+
+SenderName: Jennie,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:25:02,
+Amount: 200.00,
+Thread: pool-1-thread-1
+
+SenderName: Jennie,
+SenderAccNo: ATM,
+ReceiverAccNo: ACC2008,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 17:25:16,
+Amount: 200.00,
+Thread: pool-1-thread-2
+
+SenderName: Kenny,
+SenderAccNo: ATM,
+ReceiverAccNo: ACC3001,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 17:25:48,
+Amount: 250.00,
+Thread: pool-1-thread-1
+
+SenderName: Kenny,
+SenderAccNo: ACC3001,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:26:07,
+Amount: 250.00,
+Thread: pool-1-thread-2
+
+SenderName: Jane,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ATM,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 17:39:04,
+Amount: 150.00,
+Thread: pool-1-thread-1
+
+SenderName: Jane,
+SenderAccNo: ATM,
+ReceiverAccNo: ACC2008,
+Type: Deposit,
+Status: Success,
+DateTime: 2025-06-13 17:39:38,
+Amount: 150.00,
+Thread: pool-1-thread-2
+
+SenderName: Jane,
+SenderAccNo: ACC2008,
+ReceiverAccNo: ATM,
+Type: Withdraw,
+Status: Success,
+DateTime: 2025-06-13 17:39:50,
+Amount: 150.00,
+Thread: pool-1-thread-3
+
+SenderName: FEEFEE,
+SenderAccNo: 1353,
+ReceiverAccNo: 53,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-19 12:56:28,
+Amount: 151.00,
+Thread: pool-1-thread-1
+
+SenderName: FEEFEE,
+SenderAccNo: 1353,
+ReceiverAccNo: 53,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-19 12:57:22,
+Amount: 151.00,
+Thread: pool-1-thread-2
+
+SenderName: 536943,
+SenderAccNo: 536943,
+ReceiverAccNo: ATM,
+Type: deposit,
+Status: Success,
+DateTime: 2025-06-19 14:59:31,
+Amount: 50.00,
+Thread: AWT-EventQueue-0
+
+SenderName: ATM,
+SenderAccNo: ATM,
+ReceiverAccNo: 536943,
+Type: withdraw,
+Status: Success,
+DateTime: 2025-06-19 14:59:44,
+Amount: 100.00,
+Thread: AWT-EventQueue-0
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: ATM,
+Type: deposit,
+Status: Success,
+DateTime: 2025-06-19 15:03:54,
+Amount: 150.00,
+Thread: AWT-EventQueue-0
+
+SenderName: ATM,
+SenderAccNo: ATM,
+ReceiverAccNo: 536943,
+Type: withdraw,
+Status: Success,
+DateTime: 2025-06-19 15:04:15,
+Amount: 150.00,
+Thread: AWT-EventQueue-0
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: ATM,
+Type: deposit,
+Status: Success,
+DateTime: 2025-06-19 15:29:54,
+Amount: 500.00,
+Thread: AWT-EventQueue-0
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: ATM,
+Type: deposit,
+Status: Success,
+DateTime: 2025-06-19 15:46:18,
+Amount: 1000.00,
+Thread: AWT-EventQueue-0
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: 538206,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-19 15:46:32,
+Amount: 200.00,
+Thread: pool-1-thread-1
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: 552171,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-19 15:47:07,
+Amount: 250.00,
+Thread: pool-1-thread-2
+
+SenderName: chong mun kei,
+SenderAccNo: 536943,
+ReceiverAccNo: 538206,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-19 15:49:17,
+Amount: 100.00,
+Thread: pool-1-thread-1
+
+REGISTER
+gigi kim
+gigi
+securepass
+500.0
+
+REGISTER
+gigi kim
+gigi
+securepass
+1000.0
+
+REGISTER
+gigi kim
+gigi
+securepass
+1000.0
+
+REGISTER
+gigi lim
+gigi
+securepass
+1000.0
+
+LOGIN_USER
+behbeh,securepass
+
+AUTHENTICATE_USER
+chong123
+securepass
+
+AUTHENTICATE_USER
+chong123
+securepass
+
+AUTHENTICATE_USER
+chong123
+securepass
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: 524768,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-20 08:28:51,
+Amount: 100.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: 524768,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-20 08:30:38,
+Amount: 500.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: 524768,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-20 08:32:32,
+Amount: 20.00,
+Thread: pool-1-thread-2,
+
+SenderName: behbeh,
+SenderAccNo: 524768,
+ReceiverAccNo: 806049,
+Type: Transfer,
+Status: Success,
+DateTime: 2025-06-20 08:42:16,
+Amount: 20.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: ATM,
+ReceiverAccNo: 806049,
+Type: WITHDRAW,
+Status: Success,
+DateTime: 2025-06-20 08:47:48,
+Amount: 100.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: ATM,
+Type: DEPOSIT,
+Status: Success,
+DateTime: 2025-06-20 08:48:10,
+Amount: 200.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: 524768,
+Type: TRANSFER,
+Status: Success,
+DateTime: 2025-06-20 08:53:09,
+Amount: 100.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: 524768,
+Type: TRANSFER,
+Status: Success,
+DateTime: 2025-06-20 10:24:08,
+Amount: 150.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: ATM,
+ReceiverAccNo: 806049,
+Type: WITHDRAW,
+Status: Success,
+DateTime: 2025-06-20 10:24:34,
+Amount: 50.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: ATM,
+Type: DEPOSIT,
+Status: Success,
+DateTime: 2025-06-20 10:24:39,
+Amount: 50.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: ATM,
+ReceiverAccNo: 806049,
+Type: WITHDRAW,
+Status: Success,
+DateTime: 2025-06-20 10:26:07,
+Amount: 50.00,
+Thread: pool-1-thread-2,
+
+SenderName: chong123,
+SenderAccNo: 806049,
+ReceiverAccNo: ATM,
+Type: DEPOSIT,
+Status: Success,
+DateTime: 2025-06-20 10:26:12,
+Amount: 50.00,
+Thread: pool-1-thread-2,
+
